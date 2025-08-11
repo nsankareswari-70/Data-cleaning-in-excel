@@ -1,6 +1,6 @@
 # Data-cleaning-in-excel
 ## Sample Data used: List of sovereign states from Wikipedia
-Copy the data from Wikipedia and paste it into Excel
+Copy the data from Wikipedia and paste it into Excel.
 This data has links, images, and citation markers
 
 1. Use Text Wrap to bring all the text to the visual.
