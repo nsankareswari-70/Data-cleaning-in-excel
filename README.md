@@ -27,6 +27,8 @@ Using the wildcard character [*] Excel can find all the citations and remove the
 
  ![img alt](https://github.com/nsankareswari-70/Data-cleaning-in-excel/blob/4653ab9f9a9da7212d075b67870b1bf0d57cad73/ex113.png)
 
+ Find the symbols and replace them with nothing.
+
 
  
 
