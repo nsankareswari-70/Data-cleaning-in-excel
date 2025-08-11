@@ -17,6 +17,8 @@ This data has links, images, and citation markers
 ### Remove Citations - Using Find and Replace
 
  ![img alt](https://github.com/nsankareswari-70/Data-cleaning-in-excel/blob/e418f13baba73873be2b22a769e6cb5ddec63308/ex112.png)
+
+   
 Using the wildcard character [*] Excel can find all the citations and remove them from the sheet.
 
 
