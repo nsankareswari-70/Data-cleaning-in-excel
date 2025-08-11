@@ -16,6 +16,9 @@ This data has links, images, and citation markers
    Now all the images are deleted.
 ### Remove Citations - Using Find and Replace
 
+ ![img alt](https://github.com/nsankareswari-70/Data-cleaning-in-excel/blob/e418f13baba73873be2b22a769e6cb5ddec63308/ex112.png)
+
+
 
    
    
