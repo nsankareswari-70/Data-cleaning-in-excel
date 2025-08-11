@@ -10,7 +10,7 @@ This data has links, images, and citation markers
 3. Now, if you hover over the data, the text is not plain text; it has Hyperlinks in some places. To get rid of all the hyperlinks. Go to the Eraser button again and click Remove Hyperlinks      
    ![img alt](https://github.com/nsankareswari-70/Data-cleaning-in-excel/blob/3fc9ef6e6e617cc4f36c9b129f2882f09039fdf4/ex110.png)
 ### Remove Images -  The easy way.
-5. Easy way to delete all the images in excel sheet
+4. Easy way to delete all the images in excel sheet
    Go to Find and select option, click selection pane
    It shows all the images in the excel now click one image from the list to select. Press Ctrl+A to select all the images at the same time. Now press Delete button.
    Now all the images are deleted.
