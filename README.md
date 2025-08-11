@@ -22,6 +22,9 @@ This data has links, images, and citation markers
 Using the wildcard character [*] Excel can find all the citations and remove them from the sheet.
 
 ### Removing all the special characters, symbols from the excel sheet like arrows, Hyphens etc..
+
+
+
  ![img alt](https://github.com/nsankareswari-70/Data-cleaning-in-excel/blob/4653ab9f9a9da7212d075b67870b1bf0d57cad73/ex113.png)
 
 
