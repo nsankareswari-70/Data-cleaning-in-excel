@@ -40,6 +40,10 @@ Eg: Chennai, India
 Using 'comma' as a delimeter
 It separates city names in one column and country in a different column
 
+## Split column function to separate cost centre and the ID number
+
+## Removing Duplicate values
+
 
 
 
