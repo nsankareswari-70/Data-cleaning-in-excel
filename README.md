@@ -30,7 +30,16 @@ Using the wildcard character [*] Excel can find all the citations and remove the
  Find the symbols and replace them with nothing. Now the data is clean and in a workable format. 
 
 
- 
+ ## Flash Fill in Excel
+ Flash fill function in excel is a automated pattern recognition engine which fill the data automatically.
+We can use the flash fill functionality to get the first name from the name column
+
+## Text to column function
+which is used to split the data into multiple columns
+Eg: Chennai, India 
+Using 'comma' as a delimeter
+It separates city names in one column and country in a different column
+
 
 
 
