@@ -49,6 +49,24 @@ It separates city names in one column and country in a different column
 ## Removing Duplicate values
 ![img alt](https://github.com/nsankareswari-70/Data-cleaning-in-excel/blob/40467fefa1c09d238416fa8662613824b71be57c/ex145.png)
 
+## Trim Function in excel
+Used to remove any extra unwanted spaces in the beginning, middle and end
+
+## Using if to create a conditinal column
+IF FTE = 1 then "Full Time Employee" else "Part Time employee"
+
+
+## Data Cleaning using Power Query
+- Spliting the data into multiple column using split column
+- Converting the mixed unorganized dates in to a uniform date format
+- Using If function to create a new column (Eg. If FTP =1 then full time employee else part time employee)
+- Replacing the 'null' or missing values with 'Other' in the Gender columns
+  
+
+
+
+
+
 
 
    
