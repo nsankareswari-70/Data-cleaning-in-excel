@@ -61,7 +61,10 @@ IF FTE = 1 then "Full Time Employee" else "Part Time employee"
 - Converting the mixed unorganized dates in to a uniform date format
 - Using If function to create a new column (Eg. If FTP =1 then full time employee else part time employee)
 - Replacing the 'null' or missing values with 'Other' in the Gender columns
-  
+- Removing empty cell in excel
+- Highlighting the duplicate values using conditional formatting
+- Clear Formats
+-   
 
 
 
