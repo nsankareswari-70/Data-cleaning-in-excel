@@ -41,7 +41,9 @@ Using 'comma' as a delimeter
 It separates city names in one column and country in a different column
 
 ## Split column function to separate cost centre and the ID number
-
+![img alt](https://github.com/nsankareswari-70/Data-cleaning-in-excel/blob/40467fefa1c09d238416fa8662613824b71be57c/ex143.png)
+![img alt](https://github.com/nsankareswari-70/Data-cleaning-in-excel/blob/40467fefa1c09d238416fa8662613824b71be57c/ex144.png)
+![img alt](https://github.com/nsankareswari-70/Data-cleaning-in-excel/blob/40467fefa1c09d238416fa8662613824b71be57c/ex145.png)
 ## Removing Duplicate values
 
 
